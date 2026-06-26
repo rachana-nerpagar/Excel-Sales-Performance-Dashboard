@@ -1,4 +1,9 @@
 **Sales Performance & Profit Analysis Dashboard**
+
+This repositoray contains:
+Excel file with sales data, pivot tables and Sales Performace Dashboard.
+Pdf file of Sales Performance & Profit Analysis Dashboard.
+
 *Project Overview:
 
 Designed an interactive Excel dashboard to analyze sales performance, profitability, warehouse contribution, and regional order trends using Pivot Tables, Pivot Charts, Slicers, and KPI Cards.
